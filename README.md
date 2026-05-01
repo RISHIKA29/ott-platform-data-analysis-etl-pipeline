@@ -26,7 +26,7 @@ The workflow includes:
 
 ## Project Structure
 ```
-ott-data-pipeline-analysis/
+ott-platform-data-analysis-etl-pipeline/
 │
 ├── data/
 │   └── cleaned_ott_data.csv
@@ -71,6 +71,9 @@ ott-data-pipeline-analysis/
 ## Sample Output
 
 ![Movies vs TV](images/movies_vs_tv.png)
+![Content Trend](outputs/content_trend.png)
+
+![Top Countries](outputs/top_countries.png)
 
 ---
 
