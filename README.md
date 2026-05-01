@@ -36,6 +36,7 @@ ott-platform-data-analysis-etl-pipeline/
 │
 ├── sql/
 │   └── analysis_queries.sql
+|   |── SQL_queries_in_python.ipynb
 │
 ├── outputs/
 │   ├── movies_vs_tv.csv
@@ -45,6 +46,10 @@ ott-platform-data-analysis-etl-pipeline/
 │   ├── content_trend.csv
 │   ├── content_trend.png
 │
+├── images/
+│   ├── movies_vs_tv.png
+│   ├── top_countries.png
+│   ├── content_trend.png
 ├── README.md
 ```
 
