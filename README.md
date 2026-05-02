@@ -82,6 +82,16 @@ ott-platform-data-analysis-etl-pipeline/
 
 ---
 
+## Business Impact
+This project helps analysts:
+- Understand content distribution across movies and TV shows
+- Identify dominant genres and content trends
+- Analyze country-level contribution to platform content
+- Build a repeatable ETL workflow for cleaned analytics-ready data
+- Use SQL-based analysis to support content strategy decisions
+
+---
+
 ## Notes
 
 SQL queries used in this project are included in the SQL folder and were executed using SQLite within Python.
