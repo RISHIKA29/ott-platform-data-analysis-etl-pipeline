@@ -1,6 +1,6 @@
 # OTT Data Pipeline & Analysis
 
-End-to-end data analysis project using Python, SQL, and visualization techniques on Netflix content data.
+ETL and SQL analytics project using Python to clean OTT platform data, model structured tables, and analyze content trends.
 
 ---
 
